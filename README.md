@@ -1,7 +1,7 @@
 <h1> Hello there 👋, I’m Amisha! </h1>
 <br>
 ● 💡 My passion is to solve real-time problems with my logical and programming skills. <br>
-● 💻 Let's talk about Web Applications, Performance Optimisation, Site Security. <br>
+● 💻 Let's talk about Web Applications, Performance Optimization, Site Security. <br>
 ● 📝 I'm a technical blogger and a continuous learner. <br>
 <br>
 
