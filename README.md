@@ -19,16 +19,19 @@
     <li>WordPress Theme Development</li>
     <li>MySQL</li>
     <li>Laravel</li>
-    <li>CodeIgniter</li>
+    <li>Livewire</li>
+    <li>Docker</li>
+    <li>AWS</li>
+    <li>Linode</li>
+    <li>TDD</li>
     <li>HTML5</li>
     <li>CSS3</li>
     <li>Bootstrap</li>
     <li>jQuery</li>
     <li>Ajax</li>
+    <li>React.js</li>
     <li>API Development</li>
 </ul>
-
-
 
 <!---
 JainAmisha/JainAmisha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
